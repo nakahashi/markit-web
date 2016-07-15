@@ -85,6 +85,9 @@ a.btn-cta-secondary:hover,
 .text-highlight {
   color: #074f66;
 }
+.my-highlight {
+  color: #eebf3f;
+}
 .offset-header {
   padding-top: 90px;
 }
@@ -414,7 +417,8 @@ pre code {
 /* ======= Contact Section ======= */
 .contact {
   padding: 80px 0;
-  background: #17baef;
+  background: #f5f5f5;
+  /*background: #17baef;*/
   color: #fff;
 }
 .contact .contact-inner {
